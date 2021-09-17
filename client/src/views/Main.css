@@ -1,0 +1,51 @@
+.headerArea{
+    background-color:#783f04;
+    margin:0;
+    color:white;
+    padding:10px 0;
+}
+.headerArea button{
+    background-color:blue;
+    color:white;
+    cursor:pointer;
+
+    font-size:20px;
+    margin:8px 0 0 100px;
+}
+.bodyArea{
+    padding:10px;
+    background-color:#ff9900;
+    min-height:700px;
+}
+.flex_container{
+    min-height: 400px!important;
+    display:flex;
+    justify-content:space-between;
+    padding:20px 5%;
+}
+.left_container{
+    width:400px;
+}
+.right_input_container{
+    width:400px;
+}
+.right_container{
+    padding:0 20px;
+    border:3px solid black;
+    width:400px;
+    background-color:white;
+}
+.right_body{
+    text-align: left;
+}
+.right_body p{
+    font-weight: bold;
+}
+.redbutton{
+    background-color:red;
+    color:white;
+}
+.greenbutton{
+    background-color:green;
+    color:white;
+}
